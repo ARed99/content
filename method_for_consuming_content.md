@@ -11,3 +11,6 @@ Again watch or read the same content.
 
 # Step 4
 Again take note of the same content.
+
+# Step 5
+Compare both notes and conculde.
