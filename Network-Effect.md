@@ -18,6 +18,7 @@ Investopedia / Yurle Villegas
 
 How the Network Effect Works
 ----------------------------
+![network effect](/img/network-effect.png)
 
 The network effect can lead to an improved experience as more people participate. It can also encourage new participants as they look to benefit from the network.
 
