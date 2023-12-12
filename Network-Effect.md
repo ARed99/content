@@ -2,6 +2,54 @@
 What Is the Network Effect?
 ---------------------------
 
+```
+          +-----------------------------+
+          |                             |
+          |     Learning Platform       |
+          |        (Central Hub)        |
+          |                             |
+          +-----------------------------+
+                 |           |           |
+                 |           |           |
+          +------|-----------|-----------|------+
+          |      |           |           |      |
+  +-------|------+  +--------|-----------|------+--------+
+  | User A        | | User B                | User C     |
+  |               | |                        |            |
+  |               | |   +---------+          |            |
+  |               | |   |Learning |          |            |
+  |               | |   |Space A  |          |            |
+  |               | |   |         |          |            |
+  |               | |   +---------+          |            |
+  |               | |           |            |            |
+  |               | |   +-------|-------+    |            |
+  |               | |   | User D        |   |            |
+  |               | |   |               |   |            |
+  |               | |   |               |   |            |
+  |               | |   | +-----------+ |   |            |
+  |               | |   | |Learning   | |   |            |
+  |               | |   | |Space B    | |   |            |
+  |               | |   | +-----------+ |   |            |
+  |               | |   |               |   |            |
+  |               | |   +---------------+   |            |
+  |               | |                       |            |
+  |               | +-----------------------|------------+
+  |               |                         |
+  +---------------|-------------------------+
+                  |
+          +-------|--------+
+          | User E        |
+          |               |
+          |               |
+          | +-----------+ |
+          | |Learning   | |
+          | |Space C    | |
+          | +-----------+ |
+          |               |
+          +---------------+
+```
+
+
 The network effect is a phenomenon whereby increased numbers of people or participants improve the [value of a good or service](https://www.investopedia.com/terms/v/value-network.asp). The internet is an example of the network effect. Initially, there were few users on the internet since it was of little value to anyone outside of the military and some research scientists.
 
 However, as more users gained access to the internet, they produced more content, information, and services. The development and improvement of websites attracted more users to connect and do business with each other. As the internet experienced increases in traffic, it offered more value, leading to a network effect.
