@@ -23,5 +23,5 @@ ebook containing simplification of the book "The Hearth Book".
 ## building businnes
 # expense
 1. domain name - ₹2,796.00
-2. 
+2. domain connection to subtract - 50 dollar.
    
