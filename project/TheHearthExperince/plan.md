@@ -42,7 +42,7 @@ ebook containing simplification of the book "The Hearth Book".
 # steps
 1. create all free content.
 2. setup new google account for managing user and product data.
-3. create sheets for products.
+3. create sheets for products. [ref video link](https://www.youtube.com/watch?v=xICEFEJ3sGk)
 4. design pages for all products.
 5. setup forms for the products.
 6. 
