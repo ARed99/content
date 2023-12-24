@@ -22,7 +22,7 @@ ebook containing simplification of the book "The Hearth Book".
 ## building businnes
 # expense
 1. domain name - ₹2,796.00 (2 years)
-2. website host **carrd** - 19 dollar (1 year)
+2. website host **carrd** - Rs 1,580 - 19 dollar (1 year).
    
 # products ( free )
 1. create wallpapers for pc and mobile ( this can help us to recognize which devices is the user uses).
