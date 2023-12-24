@@ -1,22 +1,22 @@
-### thehearthexperince.com
+### thegatewayexperince.com
 
 ## products. 
 
 
 free 4k wallapapers.
 free newsletter.
-free video content. (introduction to the hearth book)
+free video content.
 
-ebook containing simplification of the book "The Hearth Book".
+
 
 # free
 1.  wallpapers for pc and mobile.
 2.  introduction video of th hearth book
-3.  10 who are you ( a pdf that explain consumers why they should follow hearth).
+
 
 # paid 
 1. ebook (simpilification of the book).
-2. full course of hearth book.
+2. full course.
 
 
 ## building businnes
@@ -26,12 +26,12 @@ ebook containing simplification of the book "The Hearth Book".
    
 # products ( free )
 1. create wallpapers for pc and mobile ( this can help us to recognize which devices is the user uses).
-2. create the introduction video of the hearth book.
+2. create the introduction video.
 3. create astrology pdf
 
 # products ( paid )
-1. ebook explaining the hearth book.
-2. video content explaining the hearth book.
+1. ebook.
+2. video content.
 
 # pre steps
 1. buy domain (optional).
