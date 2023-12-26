@@ -45,4 +45,39 @@ free video content.
 3. create sheets for products. [ref video link](https://www.youtube.com/watch?v=xICEFEJ3sGk)
 4. design pages for all products.
 5. setup forms for the products.
-6. 
+
+
+# content 
+
+## instagram reels
+1. script writing.
+2. video resourse finding.
+3. voice over recording.
+4. video editing.
+5. loop
+
+# goals
+
+to make email list.
+
+to make email list create content on instgram and youtube. 
+
+reach 10k followers and start working on paid project.
+
+promote content.
+
+focus of video editing and sound effects.
+
+i need to learn premiere pro.
+i think my laptop can handle the video rendering
+          ```OR```
+i can edit video in capcut on mobile.
+
+weekly - hit 100 followees
+
+monthly - hit 10k followers
+
+first year - 100k+ followers
+
+
+          
