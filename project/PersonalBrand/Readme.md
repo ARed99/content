@@ -17,7 +17,7 @@ pdf of marketing
 pdf of copywriting
 
 # content creation 
-use popular video at strat of the video as a hook.
+use popular video at start of the video as a hook.
 
 what type of popular video ?
 
