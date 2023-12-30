@@ -15,3 +15,21 @@ points
 # what to sale
 pdf of marketing
 pdf of copywriting
+
+# content creation 
+use popular video at strat of the video as a hook.
+
+what type of popular video ?
+
+creators feeds are always with motivation content.
+
+so, we take some of the viral motivational video and add to our content.
+
+**alert!..**
+
+don't just randomly add video to your video.
+
+find the video that matches with your content ( main point ).
+
+
+
