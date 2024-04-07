@@ -327,6 +327,7 @@
     - *District:* Malappuram
     - *State:* Kerala
     - *Karma:* 1100
+    - sui
 
 55. **Rishikesh K V**
     - *Rank:* 55
